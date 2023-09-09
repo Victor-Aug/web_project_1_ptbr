@@ -278,7 +278,7 @@ min-width: 784px;
   z-index: 1;
 }
 
- .table__cell_theme_dark {
+.table__cell_theme_dark {
   display: flex;
   flex-direction: column;
   width: 200px;
