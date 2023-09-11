@@ -17,13 +17,6 @@
   justify-content: flex-start;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .logo_place_header {
  width: 154px;
  height: 31px;
